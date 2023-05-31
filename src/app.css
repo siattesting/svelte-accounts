@@ -1,0 +1,28 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@import 'https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css';
+
+body {
+	margin: 0 auto;
+	max-width: 50em;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	padding: 4em 1em;
+	line-height: 1.5;
+	color: #555 antialiased;
+}
+
+h1,
+h2,
+h2 {
+	margin-top: 1em;
+	padding-top: 1em;
+}
+
+h1,
+h2,
+h3,
+strong {
+	color: #333;
+}
